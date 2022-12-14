@@ -1,5 +1,6 @@
 #**Citi Bike Sharing**
 ----------------------
+[link to my dashboard] https://public.tableau.com/app/profile/erasmus.quaye/viz/TableauModule15BikeSharing/NYCStory?publish=yes
 
 ##**Overview: Analysis of Citi Bike data from New York City and it's application to Des Moines.**
 -----------------------------------------------------------------------------------------------------
