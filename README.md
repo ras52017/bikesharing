@@ -24,7 +24,7 @@ To start this analysis, I needed to understand the 5W's so I can tailor my analy
 ##**Results:**
 
 ![image](https://github.com/ras52017/bikesharing/blob/main/images/Checkout%20Times%20for%20Users.jpg)
-![image](https://user-images.githubusercontent.com/111700418/187080817-158b6a25-50ce-4825-a872-96da324ac2a2.png)
+![image](https://github.com/ras52017/bikesharing/blob/main/images/Checkout%20Times%20by%20Gender.jpg)
 
 
 
