@@ -23,8 +23,11 @@ To start this analysis, I needed to understand the 5W's so I can tailor my analy
 
 ##**Results:**
 
-
+![image](https://user-images.githubusercontent.com/111700418/187080817-158b6a25-50ce-4825-a872-96da324ac2a2.png)
+![image](https://user-images.githubusercontent.com/111700418/187080817-158b6a25-50ce-4825-a872-96da324ac2a2.png)
 
 
 
 https://drive.google.com/drive/folders/1dbrmi1uAKF8D5hMT1m2XOtdisJhrclUW?usp=share_link
+
+![image](https://user-images.githubusercontent.com/111700418/187080817-158b6a25-50ce-4825-a872-96da324ac2a2.png)
