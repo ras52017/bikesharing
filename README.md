@@ -48,6 +48,7 @@ To start this analysis, I needed to understand the 5W's so I can tailor my analy
 https://public.tableau.com/app/profile/erasmus.quaye/viz/TableauModule15BikeSharing/NYCStory?publish=yes
 
 ##**Conclusion**
+----------------
 - It will be interesting to identify the cultural differences amongst the residents of Des Moines and NYC to identify if the Des Moines will be open to the use of the bike sharing. Also what conditions make it possible for the bike sharing to trive in NYC and see if that conditions are present in Des Moines. The bike sharing is loved by both male and females but the males patronises it the more.
 
 ##**References**
