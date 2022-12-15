@@ -28,6 +28,22 @@ To start this analysis, I needed to understand the 5W's so I can tailor my analy
 
 
 
+![image](https://github.com/ras52017/bikesharing/blob/main/images/Trips%20by%20Gender%20(Weekday%20per%20Hour).jpg)
+
+
+
+
+
+![image](https://github.com/ras52017/bikesharing/blob/main/images/Trips%20by%20Gender%20by%20Weekday%20viz.jpg)
+
+
+##**References**
+----------------
+- Tableau, Python, Pandas
+- The New York Citi data source was pulled from https://s3.amazonaws.com/tripdata/index.html using the  "201908-citibike-tripdata.csv.zip" zip file
+- New York Citibike trip data: https://ride.citibikenyc.com/system-data
+
+
 https://drive.google.com/drive/folders/1dbrmi1uAKF8D5hMT1m2XOtdisJhrclUW?usp=share_link
 
 ![image](https://user-images.githubusercontent.com/111700418/187080817-158b6a25-50ce-4825-a872-96da324ac2a2.png)
